@@ -1,3 +1,5 @@
+![Main Screen](screenshoots/captura_1.png)
+
 # Dither Tool v0.7.3
 
 An interactive web application for applying various dithering algorithms to images, featuring real-time adjustments, preview scaling, and export capabilities.
